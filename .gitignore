@@ -1,0 +1,9 @@
+# Ignore C object files
+*.o
+*.out
+*.exe
+*.bin
+*.obj
+
+# Ignore Python virtual environment
+venv/
